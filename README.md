@@ -3,8 +3,8 @@
 I'm a Software & Backend developer based in Chennai, India, passionate about building high-performance softwares. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
 
 - 🔭 **Current Role**:Final Year B.Tech Student specializing in CSE
-- 🐦 **Twitter**: [@dani_akash_](https://twitter.com/raghv_pratap_)
-- 💼 **LinkedIn**: [Dani Akash](https://www.linkedin.com/in/raghv-pratap)
+- 🐦 **Twitter**: [@raghv_pratap_](https://twitter.com/raghv_pratap_)
+- 💼 **LinkedIn**: [Raghv Pratap](https://www.linkedin.com/in/raghv-pratap)
 
 ## 🛠️ Technologies & Tools
 
@@ -20,7 +20,7 @@ I'm a Software & Backend developer based in Chennai, India, passionate about bui
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [Twitter](https://twitter.com/dani_akash_), [Bluesky](https://bsky.app/profile/daniakash.com) or [LinkedIn](https://www.linkedin.com/in/daniakash/).
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [Twitter](https://twitter.com/raghv_pratap_) or [LinkedIn](https://www.linkedin.com/in/raghv-pratap).
 
 ---
 
