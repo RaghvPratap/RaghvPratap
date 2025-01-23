@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Raghvendra
 
-<!--
-**RaghvPratap/RaghvPratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software & Backend developer based in Chennai, India, passionate about building high-performance softwares. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
 
-Here are some ideas to get you started:
+- 🔭 **Current Role**:Final Year B.Tech Student specializing in CSE
+- 🐦 **Twitter**: [@dani_akash_](https://twitter.com/raghv_pratap_)
+- 💼 **LinkedIn**: [Dani Akash](https://www.linkedin.com/in/raghv-pratap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages**: Java, JavaScript
+- **Frameworks/Libraries**: React, React Native, Next.js, GraphQL, tRPC
+- **UI Libraries**: Tailwind CSS, shadcn/ui, radix-ui
+- **Build Tools**: Webpack, Vite, TurboRepo
+- **Serverless**: Cloudflare Workers, Deno Deploy
+
+## 📈 GitHub Stats
+
+![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghvPratap&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [Twitter](https://twitter.com/dani_akash_), [Bluesky](https://bsky.app/profile/daniakash.com) or [LinkedIn](https://www.linkedin.com/in/daniakash/).
+
+---
+
