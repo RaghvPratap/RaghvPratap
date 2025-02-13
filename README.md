@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raghvendra
 
-I'm a Software & Backend developer based in Chennai, India, passionate about building high-performance softwares. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
+I'm a Software & Backend developer based in Lucknow,Uttar Pradesh, India, passionate about building high-performance softwares. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
 
 - 🔭 **Current Role**:Final Year B.Tech Student specializing in CSE
 - 🐦 **Twitter**: [@raghv_pratap_](https://twitter.com/raghv_pratap_)
@@ -9,10 +9,8 @@ I'm a Software & Backend developer based in Chennai, India, passionate about bui
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Java, JavaScript
-- **Frameworks/Libraries**: React, React Native, Next.js, GraphQL, tRPC
-- **UI Libraries**: Tailwind CSS, shadcn/ui, radix-ui
-- **Build Tools**: Webpack, Vite, TurboRepo
-- **Serverless**: Cloudflare Workers, Deno Deploy
+- **Frameworks/Libraries**: Express JS
+- **Build Tools**: VS Code
 
 ## 📈 GitHub Stats
 
